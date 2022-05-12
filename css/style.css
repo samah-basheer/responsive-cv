@@ -40,21 +40,6 @@ html::-webkit-scrollbar-thumb {
   margin-bottom: 15px;
 }
 
-.btn {
-  margin-top: 10px;
-  display: inline-block;
-  padding: 7px 20px;
-  border-radius: 5px;
-  background: var(--blue);
-  color: var(--white);
-  font-size: 17px;
-  box-shadow: var(--box-shadow);
-}
-
-.btn:hover {
-  background: var(--black);
-}
-
 .container {
   padding: 100px 9%;
   background: linear-gradient(45deg,#edf6f9, #e1e5f2);
